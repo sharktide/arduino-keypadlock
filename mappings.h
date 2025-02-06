@@ -1,8 +1,6 @@
-// mappings.h
-
 #ifndef MAPPINGS_H
 #define MAPPINGS_H
-
+// Uses an Arduino Mega 2560
 // Pin mappings for LEDs
 #define GREEN 49   // Green LED pin
 #define RED 45     // Red LED pin
